@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+# exclude everything
+blogPosts/*
+
+# exception to the rule
+!blogPosts/.gitkeep 
